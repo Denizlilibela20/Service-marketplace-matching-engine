@@ -1,0 +1,15 @@
+# Java build artifacts
+*.class
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

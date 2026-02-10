@@ -191,7 +191,7 @@ Batching these updates prevents unnecessary per-command recalculation.
 
 
 
-## Large-Scale Design & Algorithms: 
+## Large-Scale Design & Algorithms: 
 
 The system is explicitly designed for large test cases.
 
